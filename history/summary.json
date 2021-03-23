@@ -58,17 +58,17 @@
     "url": "https://api.premid.app",
     "icon": "https://favicons.githubusercontent.com/api.premid.app",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1392,
-    "timeDay": 0,
-    "timeWeek": 1057,
-    "timeMonth": 1694,
-    "timeYear": 1392,
+    "time": 1395,
+    "timeDay": 4733,
+    "timeWeek": 1225,
+    "timeMonth": 1719,
+    "timeYear": 1395,
     "dailyMinutesDown": {}
   }
 ]
