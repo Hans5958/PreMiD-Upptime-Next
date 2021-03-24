@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1788,
     "timeDay": 5101,
-    "timeWeek": 1573,
-    "timeMonth": 3668,
+    "timeWeek": 1584,
+    "timeMonth": 3685,
     "timeYear": 1788,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 1675,
     "timeDay": 3894,
-    "timeWeek": 1347,
-    "timeMonth": 2600,
+    "timeWeek": 1367,
+    "timeMonth": 2615,
     "timeYear": 1675,
     "dailyMinutesDown": {}
   },
@@ -48,8 +48,8 @@
     "uptimeYear": "100.00%",
     "time": 863,
     "timeDay": 570,
-    "timeWeek": 686,
-    "timeMonth": 597,
+    "timeWeek": 694,
+    "timeMonth": 596,
     "timeYear": 863,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://api.premid.app",
     "icon": "https://favicons.githubusercontent.com/api.premid.app",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 1430,
     "timeDay": 7214,
-    "timeWeek": 2636,
-    "timeMonth": 1986,
+    "timeWeek": 2653,
+    "timeMonth": 1997,
     "timeYear": 1430,
     "dailyMinutesDown": {}
   }
